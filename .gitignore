@@ -1,7 +1,9 @@
 *.o
 *.out
+cur.redfat
 
 driver
 driver.redfat
 
 .vscode/
+.DS_Store
